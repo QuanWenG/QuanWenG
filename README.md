@@ -14,6 +14,11 @@
 
 <p align="center">
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuanWenG&layout=compact&langs_count=8)
+
+</p>
+<p align="center">
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
