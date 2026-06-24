@@ -58,3 +58,27 @@
 
 [//]: # ()
 [//]: # (</p>)
+
+## 🚀 Featured Project
+
+<p align="center">
+  <a href="https://github.com/QuanWenG/QwG-Skills">
+    <img width="460" src="https://github-readme-stats.vercel.app/api/pin/?username=QuanWenG&amp;repo=QwG-Skills&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=58A6FF" alt="QwG-Skills" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_Workflows-111827?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reusable_Prompts-2563EB?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dev_Notes-16A34A?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Personal skills, AI workflows, reusable prompts, and development notes.</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/QuanWenG/QwG-Skills">
+    <img src="https://img.shields.io/badge/View_Project-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
