@@ -12,7 +12,8 @@
 [//]: # (### Programming Languages)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuanWenG&amp;layout=compact&amp;langs_count=8" alt="Top Langs" />
+  
+  ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=QuanWenG&layout=compact&langs_count=20&locale=cn&theme=transparent)
   <img src="https://streak-stats.demolab.com?user=QuanWenG&hide_border=false" />
 </p>
 
