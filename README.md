@@ -16,56 +16,13 @@
   <img src="https://streak-stats.demolab.com?user=QuanWenG&hide_border=false" />
 </p>
 
-[//]: # (<p align="center">)
-
-[//]: # ()
-[//]: # (![Go]&#40;https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white&#41;)
-
-[//]: # (![Kotlin]&#40;https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white&#41;)
-
-[//]: # (![Java]&#40;https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white&#41;)
-
-[//]: # (![C++]&#40;https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white&#41;)
-
-[//]: # (![Python]&#40;https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&#41;)
-
-[//]: # (![JavaScript]&#40;https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&#41;)
-
-[//]: # (![TypeScript]&#40;https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&#41;)
-
-[//]: # (![Bash]&#40;https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white&#41;)
-
-[//]: # (![PowerShell]&#40;https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white&#41;)
-
-[//]: # ()
-[//]: # (</p>)
-
-[//]: # (### Frameworks & Platforms)
-
-[//]: # ()
-[//]: # (<p align="center">)
-
-[//]: # ()
-[//]: # (![Spring]&#40;https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white&#41;)
-
-[//]: # (![Fabric]&#40;https://img.shields.io/badge/Fabric-DBD0B4?style=flat&logo=fabric&logoColor=black&#41;)
-
-[//]: # (![React]&#40;https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black&#41;)
-
-[//]: # (![Linux]&#40;https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black&#41;)
-
-[//]: # (![Windows]&#40;https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white&#41;)
-
-[//]: # ()
-[//]: # (</p>)
-
 ## 🚀 Featured Project
 
 <div align="center">
 
 ### [Tiffany](https://github.com/CyanReef/Tiffany)
 
-A lightweight Python bot runtime for OneBot/NapCat, with async hook dispatch, lazy message parsing, and WebSocket-based replies.
+A lightweight Python bot runtime for OneBot, with async hook dispatch, lazy message parsing, and WebSocket-based replies.
 
 <p>
   <img src="https://img.shields.io/badge/Python_Bot-3776AB?style=for-the-badge&logo=python&logoColor=white" />
