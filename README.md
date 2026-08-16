@@ -23,7 +23,7 @@
 
 ### [Tiffany](https://github.com/CyanReef/Tiffany)
 
-A lightweight Python bot runtime for OneBot, with async hook dispatch, lazy message parsing, and WebSocket-based replies.
+Tiffany is a modern Python bot runtime centered on the principle of "everything is a hook, data parsed on demand," with a strong focus on performance. It strives to become a lightweight, composable, cross-platform, and production-oriented next-generation bot framework.
 
 <p>
   <img src="https://img.shields.io/badge/Python_Bot-3776AB?style=for-the-badge&logo=python&logoColor=white" />
