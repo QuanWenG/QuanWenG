@@ -13,7 +13,7 @@
 
 <p align="center">
   
-  ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=QuanWenG&layout=compact&langs_count=20&locale=en&theme=transparent)
+  ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=QuanWenG&layout=compact&langs_count=10&locale=en&theme=transparent)
   <img src="https://streak-stats.demolab.com?user=QuanWenG&hide_border=false" />
 </p>
 
