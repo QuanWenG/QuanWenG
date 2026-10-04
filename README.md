@@ -52,20 +52,4 @@ A personal GitHub Pages site and web presence.
   </a>
 </p>
 
-### [QwG-Skills](https://github.com/QuanWenG/QwG-Skills)
-
-A personal collection of AI workflows, reusable prompts, development notes, and automation ideas.
-
-<p>
-  <img src="https://img.shields.io/badge/AI_Workflows-111827?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reusable_Prompts-2563EB?style=for-the-badge&logo=markdown&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dev_Notes-16A34A?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/QuanWenG/QwG-Skills">
-    <img src="https://img.shields.io/badge/View_Project-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
 </div>
